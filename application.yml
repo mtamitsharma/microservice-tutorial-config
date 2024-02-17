@@ -1,4 +1,5 @@
-
+server:
+  name: demo
 eureka:
   instance:
     prefer-ip-address: true
